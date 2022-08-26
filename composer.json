@@ -1,0 +1,24 @@
+{
+    "name": "olakunlevpn/interswitch",
+    "description": "A Interswitch SDK written in PHP to integrate it APIs to build your software applications",
+    "type": "library",
+    "license": "MIT",
+     "keywords": [
+        "Interswitch", "QuckTeller", "api", "payment", "gateway"
+    ],
+    "autoload": {
+        "psr-4": {
+            "Olakunlevpn\\Interswitch\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Olakunlevpn",
+            "email": "olakunlevpn@live.com",
+            "homepage": "http://maylancer.org",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
